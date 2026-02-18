@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ayla Tex</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>AYLA TEX</h1>
+<p>موديلات أقمشة الستائر</p>
+</header>
+
+<section class="gallery">
+<div class="item">
+<h3>موديل 1</h3>
+<p>قماش ستائر جاكار مطرز</p>
+</div>
+
+<div class="item">
+<h3>موديل 2</h3>
+<p>قماش ستائر شانتوك</p>
+</div>
+</section>
+
+<a class="whatsapp" href="https://wa.me/905421616800">
+تواصل عبر واتساب
+</a>
+
+</body>
+</html>
